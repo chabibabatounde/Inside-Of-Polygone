@@ -9,14 +9,14 @@ Le principe est simple: On trace une démi-droite depuis le point, vers l'infini
           |-----------------------------|
           |                             |
           |                    Point    | (Démi droite vers l'infini)
-          |                      *------|----------> (Nombre d'intersection impaire) Point dans le polygone
-          |                             |
+          |                      *------|----------> (Nombre d'intersection impaire) 
+          |                             |             Alors, Point dans le polygone
           |-----------------------------|
 
    
            |-----------------------------|
            |                             |
            | (Démi droite vers l'infini) |
-           | *---------------------------|-------------------> (Nombre d'intersection paire)  Point hors du polygone
-           |                             |
+           | *---------------------------|---------> (Nombre d'intersection paire)  
+           |                             |            Alors, point hors polygone
            |-----------------------------|
